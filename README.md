@@ -1,10 +1,10 @@
-# Movies (for example)
+# TODO
 
 ## How to run a project
 
 ### 1.Open terminal and go to the project folder:
 
-<code>cd movies</code>
+<code>cd todo</code>
 
 ### 2.Install express:
 
